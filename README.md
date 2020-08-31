@@ -5,13 +5,13 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-lukamircetic-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-mircetic)
 ![Profile](https://komarev.com/ghpvc/?username=lukamircetic&style=flat-square)
 
-### I'm a Software and Biomedical Engineering Student
+#### A little bit about me
 
 - 🔭 Working on a [To-do list web application][repository]!
 - 🌱 Learning intermediate/advanced level Node & React
 - 🧠 Interested in learning about machine learning and deep learning
 
-
+####Languages
 
 [website]: https://lukamircetic.ca
 [linkedin]: https://linkedin.com/in/luka-mircetic
