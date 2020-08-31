@@ -14,9 +14,11 @@
 #### Current projects:
 
 #### Stats:
-<img align="left" alt="luka's stats" src="https://lukamircetic.vercel.app/api?username=lukamircetic&show_icons=true&hide_border=true" />
 
+[![Luka's github stats](https://github-readme-stats.lukamircetic.vercel.app/api?username=lukamircetic)](https://github.com/lukamircetic/github-readme-stats)
 
 [website]: https://lukamircetic.ca
 [linkedin]: https://linkedin.com/in/luka-mircetic
 [repository]: https://github.com/lukamircetic/TodoApp
+
+<img align="left" alt="luka's stats" src="https://lukamircetic.vercel.app/api?username=lukamircetic&show_icons=true&hide_border=true" />
