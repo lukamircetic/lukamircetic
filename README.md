@@ -6,13 +6,13 @@
 ![Profile](https://komarev.com/ghpvc/?username=lukamircetic&style=flat-square)
 
 #### A little bit about me
-
-- 🔭 Working on a [To-do list web application][repository]!
+- 🧬 Software and Biomedical Engineering Student at McMaster University
 - 🌱 Learning intermediate/advanced level Node & React
 - 🧠 Interested in learning about machine learning and deep learning
+- 🔨 Currently on an 8 month co-op at CIBC as an Analytics Developer
 
 ####Languages
-
+- 🔭 Working on a [To-do list web application][repository]!
 [website]: https://lukamircetic.ca
 [linkedin]: https://linkedin.com/in/luka-mircetic
 [repository]: https://github.com/lukamircetic/TodoApp
