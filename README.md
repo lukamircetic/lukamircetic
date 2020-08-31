@@ -11,8 +11,12 @@
 - 🧠 Interested in learning about machine learning and deep learning
 - 🔨 Currently on an 8 month co-op at CIBC as an Analytics Developer
 
-####Languages
-- 🔭 Working on a [To-do list web application][repository]!
+#### Current projects:
+
+#### Stats:
+<img align="left" alt="luka's stats" src="https://lukamircetic.vercel.app/api?username=lukamircetic&show_icons=true&hide_border=true" />
+
+
 [website]: https://lukamircetic.ca
 [linkedin]: https://linkedin.com/in/luka-mircetic
 [repository]: https://github.com/lukamircetic/TodoApp
