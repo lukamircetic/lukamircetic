@@ -15,8 +15,6 @@
 
 #### Stats:
 
-[![Luka's github stats](https://github-readme-stats.lukamircetic.vercel.app/api?username=lukamircetic)](https://github.com/lukamircetic/github-readme-stats)
-
 [website]: https://lukamircetic.ca
 [linkedin]: https://linkedin.com/in/luka-mircetic
 [repository]: https://github.com/lukamircetic/TodoApp
