@@ -11,7 +11,7 @@
 - 🧠 Interested in learning about machine learning and deep learning
 - 🔨 Currently on an 8 month co-op at CIBC as an Analytics Developer
 
-#### Current projects:
+#### Current projects
 
 <a href="https://github.com/lukamircetic/ToDoApp">
   <img align="center" src="https://github-readme-stats.lukamircetic.vercel.app/api/pin/?username=lukamircetic&repo=ToDoApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -22,7 +22,7 @@
 
 <br />
 
-#### Languages
+#### Languages and Tools
 
 <img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
