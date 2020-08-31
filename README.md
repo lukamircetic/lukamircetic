@@ -7,7 +7,7 @@
 
 ### I'm a Software and Biomedical Engineering Student
 
-- 🔭 I’m currently working on a (To-do list web application)[repo]
+- 🔭 I’m currently working on a [To-do list web application][repo]!
 - 🌱 I’m currently learning intermediate level Node & React
 - 👯 I’m looking to collaborate on interesting apps with other students
 - 🧠 I am interested in learning about machine learning and deep learning
