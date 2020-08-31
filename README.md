@@ -8,7 +8,7 @@
 ### I'm a Software and Biomedical Engineering Student
 
 - 🔭 Working on a [To-do list web application][repository]!
-- 🌱 Learning intermediate level Node & React
+- 🌱 Learning intermediate/advanced level Node & React
 - 🧠 Interested in learning about machine learning and deep learning
 
 
