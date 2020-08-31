@@ -14,7 +14,7 @@
 #### Current projects:
 
 #### Stats:
-<img align="left" alt="luka's stats" src="https://lukamircetic.lukamircetic.vercel.app/api?username=lukamircetic&show_icons=true&hide_border=true" />
+<img align="left" alt="luka's stats" src="https://lukamircetic.vercel.app/api?username=lukamircetic&show_icons=true&hide_border=true" />
 
 
 [website]: https://lukamircetic.ca
