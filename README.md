@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=lukamircetic.com&style=for-the-badge&url=https%3A%2F%2Flukamircetic.ca)](https://lukamircetic.ca)
 
-## I'm a Software and Biomedical Engineering Student at McMaster University
+### I'm a Software and Biomedical Engineering Student at McMaster University
 
 - 🔭 I’m currently working on a [To-do list web application][repo]
 - 🌱 I’m currently learning intermediate level Node & React
