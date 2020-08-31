@@ -5,7 +5,7 @@
 
 ## I'm a Software and Biomedical Engineering Student at McMaster University
 
-- 🔭 I’m currently working on a [To-do list web application][website]
+- 🔭 I’m currently working on a [To-do list web application][repo]
 - 🌱 I’m currently learning intermediate level Node & React
 - 👯 I’m looking to collaborate on interesting apps with other students
 - ⚡ I am interested in learning about machine learning and deep learning
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 
 [website]: https://lukamircetic.ca
 [linkedin]: https://linkedin.com/in/luka-mircetic
+[repo]: https://github.com/lukamircetic/TodoApp
