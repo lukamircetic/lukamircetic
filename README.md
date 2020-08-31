@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/website?label=lukamircetic.ca&style=flat-square&url=https%3A%2F%2Flukamircetic.ca)](https://lukamircetic.ca)
-![Profile](https://komarev.com/ghpvc/?username=lukamircetic&style=flat-square)
+![Profile](https://komarev.com/ghpvc/?username=lukamircetic&style=for-the-badge)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?-lukamircetic?&style=for-the-badge&logo=linkedin&logoColor=white)
 ### I'm a Software and Biomedical Engineering Student at McMaster University
 
