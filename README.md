@@ -1,6 +1,6 @@
 ### Hi there, I'm Luka 👋
 
-[![Website](https://img.shields.io/website?label=lukamircetic.ca&style=for-the-badge&url=lukamircetic.ca)](https://lukamircetic.ca)
+(https://img.shields.io/label=lukamircetic.ca&style=for-the-badge&url=lukamircetic.ca)](https://lukamircetic.ca)
 
 ## I'm a Software and Biomedical Engineering Student at McMaster University
 
