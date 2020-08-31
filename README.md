@@ -22,7 +22,7 @@
 [repository]: https://github.com/lukamircetic/TodoApp
 
 <a href="https://github.com/lukamircetic/lukamircetic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukamircetic&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukamircetic&hide=css,jupyter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/lukamircetic/lukamircetic">
   <img align="center" src="https://github-readme-stats.lukamircetic.vercel.app/api?username=lukamircetic&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luka's GitHub Stats" />
@@ -30,4 +30,10 @@
 
 <a href="https://github.com/lukamircetic/ToDoApp">
   <img align="center" src="https://github-readme-stats.lukamircetic.vercel.app/api/pin/?username=lukamircetic&repo=ToDoApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/lukamircetic/ToDoApp">
+  <img align="center" src="https://github-readme-stats.lukamircetic.vercel.app/api/pin/?username=lukamircetic&repo=ToDoApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/lukamircetic/lukaweb">
+  <img align="center" src="https://github-readme-stats.lukamircetic.vercel.app/api/pin/?username=lukamircetic&repo=lukaweb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
