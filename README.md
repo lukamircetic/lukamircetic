@@ -26,7 +26,7 @@
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/lukamircetic/lukamircetic/c5908c06e720c74d3ae38acc99746c5325549342/assets/c.svg" />
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/lukamircetic/lukamircetic/605e89b0b36142e6b5062a1d91d77a0d1607f403/assets/c.svg" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/lukamircetic/lukamircetic/c5908c06e720c74d3ae38acc99746c5325549342/assets/java.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
