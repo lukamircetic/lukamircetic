@@ -32,10 +32,10 @@
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/lukamircetic/lukamircetic/09e7df4eeb3b49e1f79a7a69cc8957aa22308ff0/assets/svelte.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/lukamircetic/lukamircetic/561a25a5b8af31ce0926505cfce2174c21493c5e/assets/mongodb.svg" />
-
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/lukamircetic/lukamircetic/6612fdff2a69ff52dda4f4c4e1bbd180cd5ad3f2/assets/jupyter.svg" />
