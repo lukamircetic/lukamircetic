@@ -9,7 +9,7 @@
 - 🧬 Software and Biomedical Engineering Student at McMaster University
 - 🌱 Learning intermediate/advanced level Node & React
 - 🧠 Interested in machine learning and deep learning
-- 🔨 Currently on an 8 month co-op at CIBC as an Analytics Developer
+- 🔨 Currently seeking internship opportunities for Summer 2021
 
 #### Current projects
 
