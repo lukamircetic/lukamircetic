@@ -3,11 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-lukamircetic-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-mircetic)
 ![Profile](https://komarev.com/ghpvc/?username=lukamircetic&style=flat-square)
 
-#### A little bit about me
+#### About me
 - 🧬 Software and Biomedical Engineering Student at McMaster University
-- 🌱 Learning intermediate/advanced level Node & React
-- 🧠 Interested in machine learning and deep learning
-- 🔨 Currently seeking internship opportunities for Summer 2021
+- 🔨 Currently seeking internship opportunities for Summer 2022
 
 #### Current projects
 
