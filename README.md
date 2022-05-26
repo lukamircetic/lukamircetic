@@ -5,7 +5,6 @@
 
 #### About me
 - 🧬 Software and Biomedical Engineering Student at McMaster University
-- 🔨 Currently seeking internship opportunities for Summer 2022
 
 #### Current projects
 
